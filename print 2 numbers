@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+int a;
+int b;
+printf("Enter 1st number: ");
+scanf("%d",&a);
+printf("Enter 2nd number: ");
+scanf("%d",&b);
+printf("The numbers entered are %d and %d",a,b);
+return;
+}
